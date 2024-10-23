@@ -14,8 +14,8 @@ function NavBar() {
           <Navbar.Brand href="/">Ts-Task</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/store">Phones</Nav.Link>
-            <Nav.Link href="/about">Contact</Nav.Link>
+            <Nav.Link href="/phones">Phones</Nav.Link>
+            <Nav.Link href="/about">About</Nav.Link>
           </Nav>
 
           {cartQuantity > 0 && (

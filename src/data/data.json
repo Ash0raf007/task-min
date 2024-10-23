@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 14",
+    "price": 999,
+    "imgUrl": "/Images/Deep-Purple-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S23",
+    "price": 849,
+    "imgUrl": "/Images/new_project_18__1_1_1_1.png"
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 8",
+    "price": 799,
+    "imgUrl": "/Images/81Mya-dPIOL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 11",
+    "price": 699,
+    "imgUrl": "/Images/51yMS1ecBrL._AC_SL1000_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi Mi 13",
+    "price": 649,
+    "imgUrl": "/Images/Xiaomi-13-1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sony Xperia 5 V",
+    "price": 899,
+    "imgUrl": "/Images/sony-xperia-5-v-new.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Huawei P60 Pro",
+    "price": 749,
+    "imgUrl": "/Images/71PTElZL3HL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Oppo Find X6 Pro",
+    "price": 899,
+    "imgUrl": "/Images/Oppo-Find-X6-Pro.jpg"
+  }
+
+]
